@@ -2,3 +2,7 @@ sumar()"Modificada para el feature2"
 restar()
 multiplicar()
 dividir()
+sumar()
+restar()
+multiplicar()
+
